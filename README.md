@@ -1,1 +1,3 @@
-# DD-WordPress-Test-WestlieCasuncad1
+# DD-WordPress-Test-
+#User: admin
+#Password: 12345678
